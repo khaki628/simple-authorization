@@ -1,5 +1,7 @@
 # React + Vite
 
+An exercise project to learn the authorization process, which had a backend, but due to the lack of server renewal, I did not manage to maintain it.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
